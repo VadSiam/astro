@@ -1,3 +1,7 @@
+# change OPENAI_API_KEY in 'src/api/index.js' to your actual chatGPT key
+# npm i
+# start by 'npm run dev:pdf'
+
 # astrology-api
 
  ![Node.js CI](https://github.com/ryuphi/astrology-api/workflows/Node.js%20CI/badge.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/github/ryuphi/astrology-api/badge.svg)](https://coveralls.io/github/ryuphi/astrology-api) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ryuphi/astrology-api?label=version)
@@ -74,7 +78,7 @@ The values from each house system is extracted from sweph source code
 
 | Code value | House system |
 |--- | ---
-| A | equal | 
+| A | equal |
 | B | Alcabitius |
 | C | Campanus |
 | D | equal (MC) |
